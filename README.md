@@ -4,7 +4,7 @@ Hi 👋 My name is Ankur Gupta
 Software Engineer
 -----------------
 
-I have been working as a software engineer for 5+ years. Currently, I am working at Siemens.
+I have been working as a software engineer for 10+ years. Currently, I am working at Siemens.
 
 * 🌍  I'm based in India.
 * 🧠  I'm learning Machine Learning.
