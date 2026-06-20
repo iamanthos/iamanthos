@@ -7,7 +7,7 @@ Software Engineer
 I have been working as a software engineer for 10+ years. Currently, I am working at Siemens.
 
 * 🌍  I'm based in India.
-* 🧠  I'm learning Machine Learning.
+* 🧠  MS in Machine Learning from Georgia Institute of Technology.
 * 🤝  I'm open to collaborating on Frontend and Backend projects.
 
 ### Skills
